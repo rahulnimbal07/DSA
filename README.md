@@ -46,9 +46,14 @@
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rahulnimbal07/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rahulnimbal07/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Enumeration
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rahulnimbal07/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rahulnimbal07/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
