@@ -46,6 +46,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rahulnimbal07/DSA/tree/master/0001-two-sum) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rahulnimbal07/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rahulnimbal07/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Enumeration
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rahulnimbal07/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/rahulnimbal07/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
